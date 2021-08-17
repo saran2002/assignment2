@@ -1,0 +1,16 @@
+.hello{
+    text-align: center;
+    color: blue;
+    /* background-color: chartreuse; */
+   
+}
+
+body {
+    background-color: lightblue;
+    text-align: center;
+  }
+  .hello1{
+      width: 100%;
+      height: 100%;
+      text-align: center;
+  }
